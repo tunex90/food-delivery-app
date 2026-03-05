@@ -17,3 +17,4 @@ function showError(error) {
 }
 
 getLocation();
+
